@@ -1,0 +1,42 @@
+[
+    {
+        "text": "What is the primary purpose of a firewall?",
+        "answers": [
+            "To encrypt data",
+            "To control incoming and outgoing network traffic",
+            "To monitor network traffic for vulnerabilities",
+            "To block all traffic by default"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "text": "Which of the following is an example of two-factor authentication?",
+        "answers": [
+            "Password and security question",
+            "Fingerprint and security token",
+            "Password and PIN",
+            "Password and username"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "text": "Which attack uses fraudulent emails to trick users into revealing personal information?",
+        "answers": [
+            "Phishing",
+            "Brute force",
+            "Denial of Service",
+            "Malware"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "text": "What is the purpose of a VPN?",
+        "answers": [
+            "To encrypt network traffic over an untrusted network",
+            "To block malware",
+            "To filter emails",
+            "To monitor network traffic"
+        ],
+        "correctAnswer": 0
+    }
+]
